@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	pb "github.com/liuhaogui/go-micro-demo/1_helloworld/proto"
+	pb "go-micro-demo/1_helloworld/proto"
 	"github.com/micro/go-micro/v2"
 )
 func main()  {
