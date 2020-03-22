@@ -1,0 +1,9 @@
+info:
+  contact: {}
+  license: {}
+paths:
+  /api/v1/login:
+    get:
+      description: Log in to the service
+      summary: Log in to the service
+swagger: "2.0"
